@@ -20,3 +20,8 @@
   <a href="https://www.linkedin.com/in/petroniosantosti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/petroniosantos/count.svg"/>
+</p>
