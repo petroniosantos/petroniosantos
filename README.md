@@ -1,4 +1,4 @@
-## Olá! Eu sou o Petrônio santos
+## Olá! Eu sou o Petrônio Santos
 <div align="left">
   <a href="https://github.com/petroniosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petroniosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
